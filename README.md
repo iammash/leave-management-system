@@ -1,2 +1,8 @@
-# leave-management-system
-This system is for managing leaves of the employees of a company. Designed in PHP. Uses Dompdf API for generating PDFs
+# Leave Management System
+This system is for managing leaves of the employees of a company.
+
+This project is designed completely in PHP. Uses MySQL for database communication.
+
+APIs used : DOMPDF (for generating PDFs)
+
+Designed By _Aditya Krishnakumar_
