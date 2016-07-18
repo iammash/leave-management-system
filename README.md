@@ -5,6 +5,6 @@ This project is designed completely in PHP. Uses MySQL for database communicatio
 
 APIs used : DOMPDF (for generating PDFs)
 
-<s>NOTE : DO NOT USE THIS YET ! THE SQL FILE IS LEFT TO BE ADDED...</s> SQL File Added ! You can use this...
+~~NOTE : DO NOT USE THIS YET ! THE SQL FILE IS LEFT TO BE ADDED...~~ SQL File Added ! You can use this...
 
 Designed By _Aditya Krishnakumar_
