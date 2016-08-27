@@ -1,7 +1,7 @@
 <?php
 require_once "Mail.php";
 function mailer($recipient,$msg){
-$from = '<leavemanageproj@gmail.com>';
+$from = '<your_usr_name@gmail.com>';
 $to = '<'.$recipient.'>';
 $subject = 'Registration Details for Leave Management System';
 $body = $msg;
@@ -16,8 +16,8 @@ $smtp = Mail::factory('smtp', array(
         'host' => 'ssl://smtp.gmail.com',
         'port' => '465',
         'auth' => true,
-        'username' => 'leavemanageproj@gmail.com',
-        'password' => 'leaveadmin'
+        'username' => 'your_user_name@gmail.com',
+        'password' => 'your_password'
     ));
 
 $mail = $smtp->send($to, $headers, $body);
