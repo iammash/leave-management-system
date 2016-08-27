@@ -17,8 +17,8 @@ $smtp = Mail::factory('smtp', array(
         'host' => 'ssl://smtp.gmail.com',
         'port' => '465',
         'auth' => true,
-        'username' => 'leavemanageproj@gmail.com',
-        'password' => 'leaveadmin'
+        'username' => 'your_user_name@domain.com',
+        'password' => 'your_password'
     ));
 
 $mail = $smtp->send($to, $headers, $body);
