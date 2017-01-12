@@ -2,22 +2,28 @@
 
 This project is my first Web Application project in PHP. 
 
+Throgh this project I learnt the following:
+
+  1. Learning about HTML, CSS & JavaScript
+  2. Learning about server-sided languages
+  3. Learning about use of third-party APIs (PEAR Mail, DOMPDF)
+
 ## About The Project
 
 In this project, the members are creating a leave management system. The project has
 the following components:
 
-  1. CLIENT CONSOLE
+  1. **CLIENT CONSOLE
   2. ADMIN MANAGEMENT CONSOLE
-  3. CLIENT REGISTRATION COMPONENT
+  3. CLIENT REGISTRATION COMPONENT**
   
-Before accessing the CLIENT CONSOLE, the client has to register himself/herself using
-the CLIENT REGISTRATION COMPONENT. The registration component consists of a
+Before accessing the **CLIENT CONSOLE**, the client has to register himself/herself using
+the **CLIENT REGISTRATION COMPONENT**. The registration component consists of a
 simple HTML form and the confirmation page for the same. Also, the registration details
 of the same are mailed to the client’s registered email address. The mail feature is
 present in all the three components and is used as required.
 
-The CLIENT CONSOLE consists of the following features:
+The **CLIENT CONSOLE** consists of the following features:
 
   1. Requesting for a leave
   2. Password recovery option (through email)
@@ -27,7 +33,7 @@ The CLIENT CONSOLE consists of the following features:
   the all the types of leaves (Casual, Sick and Earn) sanctioned to him/her by the
   admin
   
-The ADMIN MANAGEMENT CONSOLE consists of the following features:
+The **ADMIN MANAGEMENT** CONSOLE consists of the following features:
 
   1. Removal of an employee (if he/she has quit the company)
   2. Power of granting/rejecting the leaves requested by the client with/without
