@@ -13,9 +13,9 @@ Throgh this project I learnt the following:
 In this project, the members are creating a leave management system. The project has
 the following components:
 
-  1. **CLIENT CONSOLE
-  2. ADMIN MANAGEMENT CONSOLE
-  3. CLIENT REGISTRATION COMPONENT**
+  1. **CLIENT CONSOLE**
+  2. **ADMIN MANAGEMENT CONSOLE**
+  3. **CLIENT REGISTRATION COMPONENT**
   
 Before accessing the **CLIENT CONSOLE**, the client has to register himself/herself using
 the **CLIENT REGISTRATION COMPONENT**. The registration component consists of a
